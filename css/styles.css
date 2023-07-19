@@ -211,6 +211,9 @@ footer a {
 		display: flex;
 		justify-content: center;
 	}
+	.education {
+	background-position: top right;	
+	}
 }
 
 @media screen and (max-width:799px) {
