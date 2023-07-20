@@ -98,6 +98,8 @@ header img {
 		height: 250px;
 		margin-bottom: 30px;
 		border-radius: 50%;
+		border-top: 5px;
+		border-right: 5px;
 }
 .name {
 	font-size: 3.5em;
