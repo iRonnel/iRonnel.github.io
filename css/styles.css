@@ -97,10 +97,7 @@ header img {
 		width: 250px;
 		height: 250px;
 		margin-bottom: 30px;
-		border-radius: 50%;
-		border-top: 5px;
-		border-right: 5px;
-		border-color: #F7FFF7;
+		border-radius: 50%;	
 }
 .name {
 	font-size: 3.5em;
