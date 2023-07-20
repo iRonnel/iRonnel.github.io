@@ -100,6 +100,7 @@ header img {
 		border-radius: 50%;
 		border-top: 5px;
 		border-right: 5px;
+		border-color: #F7FFF7;
 }
 .name {
 	font-size: 3.5em;
